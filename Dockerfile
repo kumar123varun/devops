@@ -1,4 +1,4 @@
-FROM hshar/ubuntunew1212
+FROM kumar123varun/ubuntunew1212
 
 ADD Blob /var/www/html/
 
